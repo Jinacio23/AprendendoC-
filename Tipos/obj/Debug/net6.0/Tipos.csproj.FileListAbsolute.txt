@@ -1,0 +1,14 @@
+C:\Users\Jose52281256\Desktop\Projetos\C#\Tipos\bin\Debug\net6.0\Tipos.exe
+C:\Users\Jose52281256\Desktop\Projetos\C#\Tipos\bin\Debug\net6.0\Tipos.deps.json
+C:\Users\Jose52281256\Desktop\Projetos\C#\Tipos\bin\Debug\net6.0\Tipos.runtimeconfig.json
+C:\Users\Jose52281256\Desktop\Projetos\C#\Tipos\bin\Debug\net6.0\Tipos.dll
+C:\Users\Jose52281256\Desktop\Projetos\C#\Tipos\bin\Debug\net6.0\Tipos.pdb
+C:\Users\Jose52281256\Desktop\Projetos\C#\Tipos\obj\Debug\net6.0\Tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose52281256\Desktop\Projetos\C#\Tipos\obj\Debug\net6.0\Tipos.AssemblyInfoInputs.cache
+C:\Users\Jose52281256\Desktop\Projetos\C#\Tipos\obj\Debug\net6.0\Tipos.AssemblyInfo.cs
+C:\Users\Jose52281256\Desktop\Projetos\C#\Tipos\obj\Debug\net6.0\Tipos.csproj.CoreCompileInputs.cache
+C:\Users\Jose52281256\Desktop\Projetos\C#\Tipos\obj\Debug\net6.0\Tipos.dll
+C:\Users\Jose52281256\Desktop\Projetos\C#\Tipos\obj\Debug\net6.0\refint\Tipos.dll
+C:\Users\Jose52281256\Desktop\Projetos\C#\Tipos\obj\Debug\net6.0\Tipos.pdb
+C:\Users\Jose52281256\Desktop\Projetos\C#\Tipos\obj\Debug\net6.0\Tipos.genruntimeconfig.cache
+C:\Users\Jose52281256\Desktop\Projetos\C#\Tipos\obj\Debug\net6.0\ref\Tipos.dll

@@ -1,0 +1,14 @@
+C:\Users\Jose52281256\Desktop\Projetos\C#\MeuPrimeiroApp\bin\Debug\net6.0\MeuPrimeiroApp.exe
+C:\Users\Jose52281256\Desktop\Projetos\C#\MeuPrimeiroApp\bin\Debug\net6.0\MeuPrimeiroApp.deps.json
+C:\Users\Jose52281256\Desktop\Projetos\C#\MeuPrimeiroApp\bin\Debug\net6.0\MeuPrimeiroApp.runtimeconfig.json
+C:\Users\Jose52281256\Desktop\Projetos\C#\MeuPrimeiroApp\bin\Debug\net6.0\MeuPrimeiroApp.dll
+C:\Users\Jose52281256\Desktop\Projetos\C#\MeuPrimeiroApp\bin\Debug\net6.0\MeuPrimeiroApp.pdb
+C:\Users\Jose52281256\Desktop\Projetos\C#\MeuPrimeiroApp\obj\Debug\net6.0\MeuPrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose52281256\Desktop\Projetos\C#\MeuPrimeiroApp\obj\Debug\net6.0\MeuPrimeiroApp.AssemblyInfoInputs.cache
+C:\Users\Jose52281256\Desktop\Projetos\C#\MeuPrimeiroApp\obj\Debug\net6.0\MeuPrimeiroApp.AssemblyInfo.cs
+C:\Users\Jose52281256\Desktop\Projetos\C#\MeuPrimeiroApp\obj\Debug\net6.0\MeuPrimeiroApp.csproj.CoreCompileInputs.cache
+C:\Users\Jose52281256\Desktop\Projetos\C#\MeuPrimeiroApp\obj\Debug\net6.0\MeuPrimeiroApp.dll
+C:\Users\Jose52281256\Desktop\Projetos\C#\MeuPrimeiroApp\obj\Debug\net6.0\refint\MeuPrimeiroApp.dll
+C:\Users\Jose52281256\Desktop\Projetos\C#\MeuPrimeiroApp\obj\Debug\net6.0\MeuPrimeiroApp.pdb
+C:\Users\Jose52281256\Desktop\Projetos\C#\MeuPrimeiroApp\obj\Debug\net6.0\MeuPrimeiroApp.genruntimeconfig.cache
+C:\Users\Jose52281256\Desktop\Projetos\C#\MeuPrimeiroApp\obj\Debug\net6.0\ref\MeuPrimeiroApp.dll
