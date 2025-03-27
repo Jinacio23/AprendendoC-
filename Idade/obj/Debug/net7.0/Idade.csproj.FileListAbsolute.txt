@@ -1,0 +1,14 @@
+C:\Users\Jose52281256\Desktop\Projetos\C#\Idade\bin\Debug\net7.0\Idade.exe
+C:\Users\Jose52281256\Desktop\Projetos\C#\Idade\bin\Debug\net7.0\Idade.deps.json
+C:\Users\Jose52281256\Desktop\Projetos\C#\Idade\bin\Debug\net7.0\Idade.runtimeconfig.json
+C:\Users\Jose52281256\Desktop\Projetos\C#\Idade\bin\Debug\net7.0\Idade.dll
+C:\Users\Jose52281256\Desktop\Projetos\C#\Idade\bin\Debug\net7.0\Idade.pdb
+C:\Users\Jose52281256\Desktop\Projetos\C#\Idade\obj\Debug\net7.0\Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose52281256\Desktop\Projetos\C#\Idade\obj\Debug\net7.0\Idade.AssemblyInfoInputs.cache
+C:\Users\Jose52281256\Desktop\Projetos\C#\Idade\obj\Debug\net7.0\Idade.AssemblyInfo.cs
+C:\Users\Jose52281256\Desktop\Projetos\C#\Idade\obj\Debug\net7.0\Idade.csproj.CoreCompileInputs.cache
+C:\Users\Jose52281256\Desktop\Projetos\C#\Idade\obj\Debug\net7.0\Idade.dll
+C:\Users\Jose52281256\Desktop\Projetos\C#\Idade\obj\Debug\net7.0\refint\Idade.dll
+C:\Users\Jose52281256\Desktop\Projetos\C#\Idade\obj\Debug\net7.0\Idade.pdb
+C:\Users\Jose52281256\Desktop\Projetos\C#\Idade\obj\Debug\net7.0\Idade.genruntimeconfig.cache
+C:\Users\Jose52281256\Desktop\Projetos\C#\Idade\obj\Debug\net7.0\ref\Idade.dll
